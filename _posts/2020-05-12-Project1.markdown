@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Project 1"
+date:   2020-05-12 19:55:01 -0600
+categories: work
+permalink: "/work/project1"
+---
+This is some info. that shows up on this post.
+
+Hi,
+Hope you are doing well.
+
+This is Swanand Kalugade, a Pune India Non-FS DCX resource currently working in Terumo BCT, Inc. at Lakewood, CO. They are global leader in blood component, therapeutic apheresis and cellular technologies.
+
+We are using Qt Quick for embedded UI and Angular for web applications development. We use Adobe XD, Sketch and JustinMind for design/ prototyping and co-ordinate with offshore team in India for front-end activities.
+
+Here’s a video of one of the project we shipped last year - https://youtu.be/whrMosfqfTU
+
+Thank you!

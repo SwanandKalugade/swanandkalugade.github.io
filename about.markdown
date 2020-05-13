@@ -4,8 +4,8 @@ title: About Me
 permalink: "/about-me"
 ---
 
-# Hello there! 👋🏼  
-# I am a cross-disciplinary designer who dabbles with the code.  
+# Namaste! I'm Swanand Kalugade.
+# A cross-disciplinary designer who dabbles with the code.  
 
 Employed by Capgemini India, I am currently working as a design consultant for Terumo BCT USA account. For the past two years, I am building new medical device user interfaces/web applications for therapeutics and cell therapy divisions of Terumo BCT. 
 Before that, I worked on designs of enterprise applications for Element fleet in Minnesota, CT Fluoroscopy controller for Cannon Medical Japan and facility design for RioTinto Australia.  
