@@ -1,12 +1,16 @@
 ---
 layout: page
-title: About Me
-permalink: "/about-me"
+title: About
+permalink: "/about"
 ---
 <br>
-# Namaste! I am Swanand Kalugade.
-# A cross-disciplinary designer who dabbles with the code.  
-<br>
+<img src="/assets/img/swanandkalugade.jpeg" 
+    alt="photo of Swanand Kalugade" 
+    width="200px" 
+    style="border-radius: 0.2em;"
+/>
+# Namaste! I am Swanand Kalugade.  
+# A cross-disciplinary designer who dabbles with the code.
 I am currently working as a design consultant for *[Terumo BCT](https://www.terumobct.com "Visit Terumo BCT website"){:target="_blank"}* in Colorado, USA. For the past three years, I am building new medical device user interfaces/web applications for their therapeutics and cell therapy divisions. 
 
 Before that, I contributed to design and development of enterprise applications for Element fleet in Minnesota, industrial design of CT Fluoroscopy controller for Cannon Medical Japan and facility design for RioTinto Australia.  

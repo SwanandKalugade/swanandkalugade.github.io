@@ -21,9 +21,9 @@
 # Basics
 title: Swanand Kalugade
 email: swanand.kalugade@gmail.com
-description: Portfolio site
+description: Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://swanandkalugade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: K_Swanand
 github_username:  SwanandKalugade
 
@@ -38,6 +38,11 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+# Collections
+collections:
+  projects: 
+    output: true
 
 # Style configs
 sass:

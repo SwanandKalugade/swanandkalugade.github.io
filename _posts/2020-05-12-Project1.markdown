@@ -2,8 +2,8 @@
 layout: post
 title:  Project 1
 date:   2020-05-12 19:55:01 -0600
-categories: work
-permalink: /work/project1
+categories: code
+permalink: /code/project1
 ---
 
 Content here
