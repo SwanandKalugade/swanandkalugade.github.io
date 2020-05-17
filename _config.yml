@@ -20,17 +20,25 @@
 
 # Basics
 title: Swanand Kalugade
+subtitle: Reach me at,
 email: swanand.kalugade@gmail.com
-description: Portfolio
+description: Swanand is a cross-disciplinary designer who dabbles with the code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://swanandkalugade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: K_Swanand
 github_username:  SwanandKalugade
+linkedin_username: swanandkalugade
+
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
+# Removed minima theme as we're using regular theme
+# theme: minima
+
+# Do not intend to use RSS Feed anymore
+# plugins:
+#   - jekyll-feed
+
 
 # Defaults
 defaults:
