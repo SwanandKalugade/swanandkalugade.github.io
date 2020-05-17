@@ -2,8 +2,8 @@
 layout: post
 title:  GSAP - TweenMax
 date:   2020-05-12 19:55:01 -0600
-categories: code
-permalink: /code/tweenMax
+categories: posts
+permalink: /posts/tweenMax
 ---
 
 Translating interactions in projects to remote development teams could sometimes be challenging. I used After Effects to detail out transitions. GSAP's TweenMax library assisted me to write those in code.  

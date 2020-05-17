@@ -2,8 +2,8 @@
 layout: post
 title:  Creative Coding
 date:   2018-11-02 14:57:00 -0600
-categories: code
-permalink: /code/creative-coding
+categories: posts
+permalink: /posts/creative-coding
 ---
 During my front-end tech learning phase a few years ago, I stumbled upon world of creative coding / generative art. I watched *[CodingTrain](https://www.youtube.com/user/shiffman/featured "Open YouTube Link"){:target="_blank"}* by Dan Shiffman where he shares his incredible knowledge around processing and p5.js.  
 
