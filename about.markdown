@@ -22,13 +22,8 @@ I stay current with the industry through online courses/expert articles/social m
 <br>
 **Things I can do**  
 Full-stack design [research, design, prototype, test], craft front-end interactions, data visualization, creative coding, listen to good music and play/discuss video games to heart's content.  
-
-On this site, I have included only selected projects from my past work.  
 <br>
-**Here is how you can reach me**  
-👨🏻‍💻 Swanand Kalugade  
-📞 +1(720) 285 5105  
-📧 *<swanand.kalugade@gmail.com>*  
-📍 *[resumé](/assets/docs/Resume_SwanandKalugade.pdf "Show Swanand's Resumé"){:target="_blank"}*  
+On this site, I have included only selected projects from my past work.  
+Here is my *[resumé](/assets/docs/Resume_SwanandKalugade.pdf "Show Swanand's Resumé"){:target="_blank"}* for your reference.  
 
 Thank you for seeing me on the interweb! 🙏🏼
