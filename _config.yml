@@ -35,9 +35,8 @@ linkedin_username: swanandkalugade
 # Removed minima theme as we're using regular theme
 # theme: minima
 
-# Do not intend to use RSS Feed anymore
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 
 # Defaults
