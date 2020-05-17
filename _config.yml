@@ -27,10 +27,16 @@ url: "https://swanandkalugade.github.io" # the base hostname & protocol for your
 twitter_username: K_Swanand
 github_username:  SwanandKalugade
 
+
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+
+# Removed minima theme as we're using regular theme
+# theme: minima
+
+# Do not intend to use RSS Feed anymore
+# plugins:
+#   - jekyll-feed
+
 
 # Defaults
 defaults:
