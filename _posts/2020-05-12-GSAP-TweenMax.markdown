@@ -2,7 +2,7 @@
 layout: post
 title:  GSAP - TweenMax
 date:   2020-05-12 19:55:01 -0600
-categories: posts
+category: posts
 permalink: /posts/tweenMax
 ---
 
