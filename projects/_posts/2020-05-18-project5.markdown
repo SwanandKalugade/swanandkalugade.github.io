@@ -1,8 +1,0 @@
----
-layout: post
-title:  Project 5
-date:   2020-05-18 10:00:00 -0600
-category: projects
-permalink: /projects/project5
-image: "/assets/img/genArt5.png"
----

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  CodePen Samples
+date:   2020-01-21 12:55:01 -0600
+category: posts
+permalink: /posts/codepen
+---
+
+# Color scale using chroma.js
+<p class="codepen" data-height="464" data-theme-id="light" data-default-tab="result" data-user="skalugade" data-slug-hash="XBLOvJ" style="height: 464px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Chroma basic scale">
+  <span>See the Pen <a href="https://codepen.io/skalugade/pen/XBLOvJ">
+  Chroma basic scale</a> by Swanand Kalugade (<a href="https://codepen.io/skalugade">@skalugade</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>   
+<br>
+
+# Protocol configuration layout test
+<p class="codepen" data-height="497" data-theme-id="light" data-default-tab="result" data-user="skalugade" data-slug-hash="mdyaOQo" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Configuration">
+  <span>See the Pen <a href="https://codepen.io/skalugade/pen/mdyaOQo">
+  Configuration</a> by Swanand Kalugade (<a href="https://codepen.io/skalugade">@skalugade</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
