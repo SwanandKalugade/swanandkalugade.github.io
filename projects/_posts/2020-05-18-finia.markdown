@@ -1,8 +1,0 @@
----
-layout: post
-title:  Fill and Finish System GUI
-date:   2020-05-18 10:00:00 -0600
-category: projects
-permalink: /projects/finia
-image: "/assets/img/angelina-litvin-K3uOmmlQmOo-unsplash.jpg"
----
