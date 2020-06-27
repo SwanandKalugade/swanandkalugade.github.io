@@ -27,10 +27,10 @@ Ease of operation, sterilization, handling / maintenance and compact footprint w
     <img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/fieldVisit1.png" alt="Field Visit Japan"/>
     <img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/fluoroscopyDevice.png" alt="Fluoroscopy Device"/>
 </div>
+<span></span>
+> Field visit to University hospital in Tokyo, Japan
 
-> Field visits to University hospital in Tokyo, Japan  
-
-
+<br>
 We explored three broad design directions for mounting the controller which provided different affordances. Using cardboard mockups (non-functional prototypes) and role play, we discovered that stand mounted variant seemed cost effective and easy to manage.
 <img src="/assets/media/fluoroscopy/Sketches1.png" alt="sketches1" style="border-radius: 0.2em;"/>
 <img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/Sketches2.png" alt="sketches2"/>

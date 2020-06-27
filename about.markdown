@@ -4,17 +4,18 @@ title: About
 permalink: "/about"
 ---
 <br>
-<img src="/assets/img/swanandkalugade.jpeg" 
+<img src="/assets/media/swanandkalugade.jpeg" 
     alt="photo of Swanand Kalugade" 
     width="200px" 
     style="border-radius: 0.2em;"
-/>
+/>  
+<br>
 
-# Namaste! I am Swanand Kalugade.  
-# A cross-disciplinary designer who takes part in the code.  
-I am currently working as a design consultant for *[Terumo Inc.](https://www.terumobct.com "Visit Terumo BCT website"){:target="_blank"}* in Colorado. For the past three years, I am building new medical GUI's / data management apps for Terumo's therapeutics and cell therapy divisions.  
+# Hello! I am Swanand Kalugade.
+# A cross-disciplinary designer who dabbles with the code.  
+Currently I am working as a design consultant for *[Terumo Inc.](https://www.terumobct.com "Visit Terumo BCT website"){:target="_blank"}* in Colorado. As part of a diverse team spread across timezones, I am contributing to new medical device GUI's and data management apps for their therapeutics and cell therapy divisions.  
 
-Before that, I have contributed to design / development of enterprise apps for *[Element Fleet](https://www.elementfleet.com){:target="_blank"}* in MN, industrial design of CT Fluoroscopy controller for *[Cannon Medical](https://global.medical.canon/products/xray){:target="_blank"}* Japan and design of processing excellence center for *[RioTinto](https://www.riotinto.com/about){:target="_blank"}* Australia.  
+Before that, I was responsible for design / development of enterprise apps for *[Element Fleet](https://www.elementfleet.com){:target="_blank"}* in MN, industrial design of CT Fluoroscopy controller for *[Cannon Medical](https://global.medical.canon/products/xray){:target="_blank"}* Japan and design of processing excellence center for *[RioTinto](https://www.riotinto.com/about){:target="_blank"}* Australia.  
 
 I like to collaborate with cross-functional teams and experienced in design to development handoffs in an agile framework. I stay current with the industry by following conferences whenever I can, but mostly through online courses, expert articles, and social media.  
 

@@ -9,7 +9,7 @@ During my front-end tech learning phase a few years ago, I stumbled upon world o
 
 Fascinated by Dan's work, while exploring on the interweb I came across and completed Matt Deslauriers's course on *[FrontEndMasters](https://frontendmasters.com/courses/canvas-webgl/ "Open FrontEndMasters"){:target="_blank"}* thorugh which I learnt fundamental concepts behind creative development work.   
 
-Here's a code snippet create following generative art using *[Canvas-Sketch](https://github.com/mattdesl/canvas-sketch.git "Open GitHub Repo"){:target="_blank"}* framework by Matt.
+Here's a code snippet used for following generative samples using *[Canvas-Sketch](https://github.com/mattdesl/canvas-sketch.git "Open GitHub Repo"){:target="_blank"}* framework by Matt.
 
     const createGrid = () => { //creates a grid using u, v co-ordinate system
       const points = [];
@@ -33,10 +33,16 @@ Here's a code snippet create following generative art using *[Canvas-Sketch](htt
   
 <br>Following images are a result of iterations using canvas-sketch library.   
 
-<img src="/assets/img/genArt3.png" alt="genArt3"/>
-<img src="/assets/img/genArt2.png" alt="genArt2"/>
-<img src="/assets/img/genArt1.png" alt="genArt1"/>
-<img src="/assets/img/genArt4.png" alt="genArt4"/>
+<div style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 10px;
+">
+  <img src="/assets/media/gen-art/genArt1.png" alt="genArt3"/>
+  <img src="/assets/media/gen-art/genArt2.png" alt="genArt2"/>
+  <img src="/assets/media/gen-art/genArt4.png" alt="genArt4"/>
+  <img src="/assets/media/gen-art/genArt3.png" alt="genArt1"/>
+</div>
   
 <!-- # GLSL Shader
 <img src="/assets/img/genArt5.png" alt="genArt5"/> -->

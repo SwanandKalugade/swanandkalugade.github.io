@@ -15,9 +15,8 @@ I studied GSAP's TweenMax with Sara Dresner's Advanced SVG course on Front-End M
 Startup animation concept for a cell therapy medical device of Terumo, Inc.
 This is built using Greensock's TweenMax and TimelineMax modules.  
 
-<video width="auto" height="480px" controls muted>
-  <source src="/assets/docs/bootAnimation.mov" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<video width="100%" height="auto" controls muted>
+  <source src="/assets/media/greenSock/bootAnimation.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
 
@@ -25,8 +24,7 @@ This is built using Greensock's TweenMax and TimelineMax modules.
 # Tubing Animation
 Tubing animation demo created using SVG and GreenSock's TimelineMax animation modules.  
 
-<video width="auto" height="280px" controls loop muted>
-  <source src="/assets/docs/tubingAnimation.mov" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<video width="100%" height="auto" controls loop muted name="media">
+  <source src="/assets/media/greenSock/tubingAnimation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
