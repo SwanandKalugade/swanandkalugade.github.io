@@ -24,20 +24,20 @@ Ease of operation, sterilization, handling / maintenance and compact footprint w
     grid-gap: 10px;
     /* grid-auto-rows: minmax(100px, auto); */
 ">
-    <img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/fieldVisit1.png" alt="Field Visit Japan"/>
-    <img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/fluoroscopyDevice.png" alt="Fluoroscopy Device"/>
+    <img src="/assets/media/fluoroscopy/fieldVisit1.png" alt="Field Visit Japan"/>
+    <img src="/assets/media/fluoroscopy/fluoroscopyDevice.png" alt="Fluoroscopy Device"/>
 </div>
 <span></span>
 > Field visit to University hospital in Tokyo, Japan
 
 <br>
 We explored three broad design directions for mounting the controller which provided different affordances. Using cardboard mockups (non-functional prototypes) and role play, we discovered that stand mounted variant seemed cost effective and easy to manage.
-<img src="/assets/media/fluoroscopy/Sketches1.png" alt="sketches1" style="border-radius: 0.2em;"/>
-<img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/Sketches2.png" alt="sketches2"/>
+<img src="/assets/media/fluoroscopy/Sketches1.png" alt="sketches1"/>
+<img src="/assets/media/fluoroscopy/Sketches2.png" alt="sketches2"/>
 
 > Field studies at client site and exploratory sketches in the early stages  
 
-<img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/CT_Mockups.png" alt="mockups"/>
+<img src="/assets/media/fluoroscopy/CT_Mockups.png" alt="mockups"/>
 
 > Idea exploration using traditional as well as digital media  
 
@@ -51,14 +51,14 @@ Several control layout iterations later, two key layouts were selected for detai
 <br>
 
 # Selected concepts
-<img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/CT_CAD.png" alt="sketches"/>
+<img src="/assets/media/fluoroscopy/CT_CAD.png" alt="sketches"/>
 
 > Top-Left shows couch / gantry manipulation with physical controls while Bottom-Left moved features to display  
 
 <br>
 
 # SLA mock-up of preferred concept
-<img style="border-radius: 0.2em;" src="/assets/media/fluoroscopy/SLA-Mockup.png" alt="sketches"/>
+<img src="/assets/media/fluoroscopy/SLA-Mockup.png" alt="sketches"/>
 
 > 1:1 mock-up with simulated materials and colors with GUI on touch-display  
 

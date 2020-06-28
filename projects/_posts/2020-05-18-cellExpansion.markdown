@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cell Expansion GUI
+title:  Cell Expansion Device
 date:   2020-05-18 10:00:00 -0600
 category: projects
 permalink: /projects/cell-expansion
@@ -16,7 +16,7 @@ Whiteboard session
 Formative human factors testing
 ![Human factors sesstion](/assets/media/cell-expansion/IMG_20190805_104650.jpg)  
 
-<!-- <video width="100%" height="auto" controls muted>
-  <source src="/assets/media/cell-expansion/cellExpansionDeviceUITest.mp4" type="video/mp4">
+<video width="100%" height="auto" controls muted>
+  <source src="/assets/media/cell-expansion/cellExpansionDisplayTest.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> -->
+</video>
