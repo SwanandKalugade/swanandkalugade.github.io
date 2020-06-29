@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cell Processing System
+title:  Cell Processing Device
 date:   2020-05-18 10:00:00 -0600
 category: projects
 permalink: /projects/cps
@@ -8,12 +8,13 @@ image: "/assets/media/cps/cellProcessing.png"
 ---
 This new platform combines the capabilities of two existing platforms at Terumo; cell separation, wash and concentrate cells. This device will feature embedded device software and application interface that provides user, protocol and barcode configuration.  
 
-# Design
+# Process
+ 
 
-All Cell Therapy Technology devices under development shared this feature. We were tasked with designing common components that will scale in future, and provide adaptive layout based on xml data.
+**Protocol configuration**  
+All Cell Therapy Technology devices under development at Terumo has similar feature. We were tasked with designing common components that will scale in future, and provide adaptive layout based on xml data.  
 
-#### Example 1
-We went through several layout options for protocol configuration view below. Due to data density of task variables and values, we explored tabular layouts  
+Due to data density of task variables and values, we put emphasis on tabular layouts early on but later opted for a card based layout better suited for touch displays.  
 
 <div style="
     display: grid;
@@ -27,7 +28,9 @@ We went through several layout options for protocol configuration view below. Du
     <img src="/assets/media/cps/RunXD.png" alt="4">
 </div>
 <span></span>
+> variety of layout options were tested for ease of use and development
 
+<br>
 <video width="100%" height="auto" controls muted>
   <source src="/assets/media/cps/finalRun.mov" type="video/mp4">
   Your browser does not support the video tag.
@@ -37,7 +40,9 @@ We went through several layout options for protocol configuration view below. Du
 
 <br>
 
-#### Example 2
+**Device Run View**  
+Device executes different run tasks during a protocol execution. The 'shell' you see below, caters to all possibilities with varying tubing layout connecting bags and pumps, while side panel displays relevant data.  
+
 <div style="
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -45,15 +50,16 @@ We went through several layout options for protocol configuration view below. Du
     grid-auto-rows: minmax(100px, auto);
 ">
     <img src="/assets/media/cps/RunWire.png" alt="1">
-    <img src="/assets/media/cps/PrimeDesign.png" alt="2">
+    <img src="/assets/media/cps/PrimeDesign.png" alt="2" style="border: 1px solid #ECEDED;">
 </div>
-<span></span>
+<br>
 
+# Formative Testing
+I prepared a quick *[interactive mockup](https://www.justinmind.com/usernote/tests/38196272/45260779/47397928/index.html#/screens/da697580-0312-4404-b07c-5ee3df31b7d4){:target="_blank"}* using JustInMind tool for this study. Some of the views in mockup respond to barcode scan events where I faked them as input events in the tool.  
 
-# Human factors session
-Alongwith the systems team at Terumo, I worked on a quick interactive mockup using JustInMind tool. Systems folk worked on protocol steps to perform, arranged disposable tubing kits, a script to simulated alarm lights during workflow execution.  
+Systems team worked on protocol steps to perform, arranged disposable tubing kits, a script to simulated alarm lights during workflow execution.  
 
-We got some really great insights into how technicians / nurses wanted from the device interactions.  
+We received some really great insights into what's important for technicians / nurse during device interactions.  
 
 <div style="
     display: grid;
@@ -61,7 +67,7 @@ We got some really great insights into how technicians / nurses wanted from the 
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 ">
-    <img src="/assets/media/cps/hfSession1.png" alt="1">
+    <img src="/assets/media/cps/hfSession3.png" alt="1">
     <img src="/assets/media/cps/hfSession2.png" alt="2">
 </div>
 <span></span>
@@ -70,3 +76,6 @@ We got some really great insights into how technicians / nurses wanted from the 
   <source src="/assets/media/cps/hfSession3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<span></span>
+
+The project is in active Qt development phase and will ship to preferred customers in December 2020.
