@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cell Therapy Device
+title:  Cell Fill Finish Device
 date:   2020-05-18 10:00:00 -0600
 category: projects
 permalink: /projects/ctt
@@ -45,9 +45,10 @@ Terumo's localization and tech-comm team has defined best practices for GUIs. Th
     grid-gap: 10px;
     /* grid-auto-rows: minmax(100px, auto); */
 ">
+    <img src="/assets/media/cell-therapy/l10n.png" alt="l10n remarks">
     <img src="/assets/media/cell-therapy/l10n2.png" alt="l10n comments">
-    <!-- <img src="/assets/media/cell-therapy/l10n.png" alt="l10n remarks"> -->
 </div>
+> Close collaboration with L10n team made sure we fixed issues around strings or expansion
 <span></span>  
 
 #### Proposed library
