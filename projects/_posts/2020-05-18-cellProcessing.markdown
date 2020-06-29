@@ -1,18 +1,25 @@
 ---
 layout: post
 title:  Cell Processing Device
-date:   2020-05-18 10:00:00 -0600
+date:   2019-04-20 10:00:00 -0600
 category: projects
 permalink: /projects/cps
 image: "/assets/media/cps/cellProcessing.png"
 ---
-This new platform combines the capabilities of two existing platforms at Terumo; cell separation, wash and concentrate cells. This device will feature embedded device software and application interface that provides user, protocol and barcode configuration.  
+# Background
+This new platform combines the capabilities of two existing platforms at Terumo; cell separation, wash and concentrate cells. This device will feature embedded software and application interface that provides user, protocol and barcode configuration.  
 
 # Process
- 
+The systems team helped us understand the procedure well through prototype device demos, and documentation. I worked with product owner on the initial explorations, got insights from field clinicians which helped me capture the workflow early on. With subsequent revisions and discovering common features while working on other projects in parallel, we defined ux goals for this project.  
 
-**Protocol configuration**  
-All Cell Therapy Technology devices under development at Terumo has similar feature. We were tasked with designing common components that will scale in future, and provide adaptive layout based on xml data.  
+Terumo selected *[Qt Framework](https://www.qt.io/qt-in-medical/ "Open Qt Site"){:target="_blank"}* for its robustness over Chromium browser based GUI. This guided us on feasibility aspect around design of common components.
+
+
+# Design Choices
+FontAwesome icon library with its massive offerings was our choice for interface icons and we created several custom ones in Illustrator. One of the challanging aspect of the project was adapting common components for devices with resistive and capacitive display.  
+
+**Protocol Configuration**  
+All cell therapy technology devices under development at Terumo has this similar feature. We were tasked with designing common components that will scale in future, and provide adaptive layout based on xml data.  
 
 Due to data density of task variables and values, we put emphasis on tabular layouts early on but later opted for a card based layout better suited for touch displays.  
 
@@ -31,7 +38,8 @@ Due to data density of task variables and values, we put emphasis on tabular lay
 > variety of layout options were tested for ease of use and development
 
 <br>
-<video width="100%" height="auto" controls muted>
+**Final Layout**
+<video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
   <source src="/assets/media/cps/finalRun.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -41,7 +49,7 @@ Due to data density of task variables and values, we put emphasis on tabular lay
 <br>
 
 **Device Run View**  
-Device executes different run tasks during a protocol execution. The 'shell' you see below, caters to all possibilities with varying tubing layout connecting bags and pumps, while side panel displays relevant data.  
+The cell therapy device executes different run tasks during a protocol execution. The 'shell' you see below, caters to all possibilities with varying tubing layout connecting bags and pumps, while side panel displays relevant data.  
 
 <div style="
     display: grid;
@@ -55,11 +63,9 @@ Device executes different run tasks during a protocol execution. The 'shell' you
 <br>
 
 # Formative Testing
-I prepared a quick *[interactive mockup](https://www.justinmind.com/usernote/tests/38196272/45260779/47397928/index.html#/screens/da697580-0312-4404-b07c-5ee3df31b7d4){:target="_blank"}* using JustInMind tool for this study. Some of the views in mockup respond to barcode scan events where I faked them as input events in the tool.  
+I prepared a quick *[interactive mockup](https://www.justinmind.com/usernote/tests/38196272/45260779/47397928/index.html#/screens/da697580-0312-4404-b07c-5ee3df31b7d4){:target="_blank"}* using JustInMind tool for this study. Some of the views in mockup even respond to USB barcode scan events. Systems team worked on protocol steps to perform, arranged disposable tubing kits, and a script for simulated alarm lights during workflow execution.  
 
-Systems team worked on protocol steps to perform, arranged disposable tubing kits, a script to simulated alarm lights during workflow execution.  
-
-We received some really great insights into what's important for technicians / nurse during device interactions.  
+We received some really great insights into what's important for technicians and nurses during device interactions.  
 
 <div style="
     display: grid;
@@ -72,10 +78,10 @@ We received some really great insights into what's important for technicians / n
 </div>
 <span></span>
 
-<video width="100%" height="auto" controls muted>
+<video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
   <source src="/assets/media/cps/hfSession3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <span></span>
 
-The project is in active Qt development phase and will ship to preferred customers in December 2020.
+The project is in active development phase and will ship to preferred customers in December 2020.

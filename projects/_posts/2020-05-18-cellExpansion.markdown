@@ -1,46 +1,49 @@
 ---
 layout: post
 title:  Automated Cell Expansion Device
-date:   2020-05-18 10:00:00 -0600
+date:   2019-02-10 10:00:00 -0600
 category: projects
 permalink: /projects/cell-expansion
 image: "/assets/media/cell-expansion/quantumSnap.png"
 ---
-*[Quantum](https://www.terumobct.com/quantum "Open Terumo Product Page"){:target="_blank"}* is an automated platform designed to simplify the open, labor-intensive tasks associated with manual cell culture. Although limited in scope for new features, through this project the device will receive updated electro-mechanical components, new display computer, and GUI enhancement.  
+# Background
+*[Quantum](https://www.terumobct.com/quantum "Open Terumo Product Page"){:target="_blank"}* is an automated platform designed to simplify the open, labor-intensive tasks associated with manual cell culture. Through this enhancements project the device will receive updated electro-mechanical components, new display computer, and GUI refresh.  
 
 # Process
+After few onboarding sessions, hands-on procedures it became clear that the system uses several pre-defined tasks that can be customized on device. For the design revision, we moved the majority of task / steps creation process to a separate cell processing application. 
+
 ![Whiteboard session](/assets/media/cell-expansion/whiteBoard.jpg)  
 
-After few onboarding sessions, hands-on procedures it became clear that the system uses several pre-defined tasks that can be customized on device. For the design revision, we moved the majority of task / steps creation process to a separate cell processing application. We worked on lots of iterations around providing task customization on device with new Qt framework. 
+We did iterations to provide task customization on device with new Qt framework. The device typically has multi-day process where run-screen serves as a single point of reference. We reworked Terumo's accessible color pallete especially for this.  
 
 # Design choices
-fontawesome, qt qml types study, adapting common components for devices with resistive and capacitive display, multi-day process where run-screen served as single point of reference, revised accessible color pallete, localization friendly components
+**Modular Components**  
+To solve string expansion, repond to user entries, and device states, we spent more time on modular components. Using Qt's Sketch Plugin, we were able to export ui.qml files for the developement team. This ensured there's little loss while translating design intent into development.  
 
-
-#### Modular components
-<video width="100%" height="auto" controls muted>
+<video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
   <source src="/assets/media/cell-expansion/QComponents.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br>
 
-#### Common components for cell therapy devices
+**Common Components for Cell Therapy Devices**  
 Protocol configuration layout was part of common component for similar projects strategy. We had to update few components for this device's resistive display.  
-<video width="100%" height="auto" controls muted>
+<video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
   <source src="/assets/media/cell-expansion/protocolConfig.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br>
 
 # Localization
+Terumo devices get localized into various languages including EMEA, CJK etc. We worked with l10n team closely to avoid any issues leaking into development.  
 <div style="
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 10px;
     /* grid-auto-rows: minmax(100px, auto); */
 ">
-    <img src="/assets/media/cell-expansion/AlterConfigScreen.png" alt="old design">
-    <img src="/assets/media/cell-expansion/ICECWashout-German.png" alt="new design">
+    <img src="/assets/media/cell-expansion/AlterConfigScreen.png" alt="old design" style="border: 1px solid #ECEDED;">
+    <img src="/assets/media/cell-expansion/ICECWashout-German.png" alt="new design" style="border: 1px solid #ECEDED;">
 </div>
 <span></span>
 > the update offered more space for string expansion within a compact layout
@@ -48,11 +51,13 @@ Protocol configuration layout was part of common component for similar projects 
 <br>
 
 # Formative testing
-We ran the GUI on device's resistive display to test viewing angle, color reproduction, and touch responsiveness.  
-<video width="100%" height="auto" controls muted>
+We took the finished version of the GUI and ran it on the device's resistive display to test viewing angle, color reproduction, and touch responsiveness. This was valuable both to design, and development team.  
+<video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
   <source src="/assets/media/cell-expansion/cellExpansionDisplayTest.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+> Initial version for enhancements was targeted at capacitive display but increased cost in tooling required to update display mounting changed the tech back to resistive type  
+
 <br>
 
-The project is in active Qt development phase and will ship to preferred customers in December 2020.
+The project is in active development phase and will ship to preferred customers in December 2020.

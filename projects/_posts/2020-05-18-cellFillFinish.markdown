@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cell Fill Finish Device
-date:   2020-05-18 10:00:00 -0600
+date:   2020-04-15 10:00:00 -0600
 category: projects
 permalink: /projects/ctt
 image: "/assets/media/cell-therapy/cellFillFinish.png"
@@ -9,19 +9,21 @@ image: "/assets/media/cell-therapy/cellFillFinish.png"
 # Background
 Cell therapy manufacturing is a complex, multi-step process that takes place at various locations. But in general, cell therapy labs show an overall low level of automation throughout all regions.
 
-This device is the first device of its kind to automate the final steps of cell and gene therapy manufacturing process, while help facilitate cGMP compliance. It is a functionally closed system for cells that automates mixing, cooling, air removal, aliquoting and sealing.  
-
-# Brief
-The operator should follow the guided on-screen instructions to load the tubing set, enter processing data, customize parameters, connect the material to the tubing set, and perform and troubleshoot the procedure on the device.  
+This device is first of its kind to automate the final steps of cell and gene therapy manufacturing process, while help facilitate cGMP compliance. It is a functionally closed system for cells that automates mixing, cooling, air removal, aliquoting and sealing.  
 
 # Process
+The operator has to follow the guided on-screen instructions to load the tubing set, enter processing data, customize parameters, connect the material to the tubing set, and perform and troubleshoot the procedure on the device.  
+
+# Design
+UX function at Terumo was relatively new in the R&D wing a few years ago. We defined ux approach to projects and communicated it to product teams. We also maintain a TFS Board for transparancy and visibility to our engagement within Terumo.  
+
 ![ux process](/assets/media/cell-therapy/UX Process.png)  
 > UX ownership with responsiblities in overall project execution  
 
-#### Theme selection
+**Theme selection**  
 Terumo's Dark UI Theme is high contrast and industrial looking that follows best practices on creating a highly-visible and efficient interface. The GUI compliments device's black display housing. This creates a familiar and consistent user experience pulling inspiration from other laboratory and medical device UIs.  
 
-#### Wireframe to Design
+**Wireframe to Design**  
 From initial ideations to designs for production, the user interface evolved quite a lot. This is mostly due to field study insights from service engineers and formative testing sessions.  
 
 <div style="
@@ -37,7 +39,7 @@ From initial ideations to designs for production, the user interface evolved qui
 <span></span>
 > A workflow sample showing transition from simple wireframes to subsequent refinements in design
 
-#### Localization aspect
+**Localization**  
 Terumo's localization and tech-comm team has defined best practices for GUIs. They also review all UI designs to ensure strings can scale well, word-wrap, and convey right meaning in different languages.  
 <div style="
     display: grid;
@@ -51,7 +53,7 @@ Terumo's localization and tech-comm team has defined best practices for GUIs. Th
 > Close collaboration with L10n team made sure we fixed issues around strings or expansion
 <span></span>  
 
-#### Proposed library
+**Proposed Library**  
 Due to its robustness, official library for Angular, a non-proprietary industry standard was used for front-end development.  
 
 <div style="
@@ -66,13 +68,13 @@ Due to its robustness, official library for Angular, a non-proprietary industry 
 <span></span>
 > Angular material provides components, transitions, grid system, and allows for robust theming.   
 
-This worked for this project but few months later for another graphically demanding project we found out that Chromium on device is not as robust as desktop or mobile experience. As of 2020 team shifted its focus to Qt Quick GUI framework instead, which gives a compiled application to deploy and is provides smoother experience.
+This approach worked for project but few months later for another graphically demanding project, we found out that Chromium on device is not as robust as desktop or mobile experience.  
 
-#### Prototype
-
-
+As of 2020 team shifted its focus to Qt Framework for GUI instead, which gives a compiled application to deploy and provides smoother experience.
 <br>
+
 # Product demo
+This product shipped last year to select customers and in early 2020, version 2.1 was released.
 <iframe 
     width="100%" 
     height="400" 
