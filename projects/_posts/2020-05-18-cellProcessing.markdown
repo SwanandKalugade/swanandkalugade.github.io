@@ -22,10 +22,10 @@ Due to data density of task variables and values, we put emphasis on tabular lay
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
 ">
-    <img src="/assets/media/cps/PrepareWire1.png" alt="1">
-    <img src="/assets/media/cps/PrepareWire2.png" alt="2">
-    <img src="/assets/media/cps/RunXD2.png" alt="3">
-    <img src="/assets/media/cps/RunXD.png" alt="4">
+    <img src="/assets/media/cps/PrepareWire1.png" alt="wireframe1">
+    <img src="/assets/media/cps/PrepareWire3.png" alt="wireframe2">
+    <img src="/assets/media/cps/PrepareWire2.png" alt="wireframe3">
+    <img src="/assets/media/cps/PrepareWire4.png" alt="wireframe1">
 </div>
 <span></span>
 > variety of layout options were tested for ease of use and development
