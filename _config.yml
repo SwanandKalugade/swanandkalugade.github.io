@@ -29,7 +29,6 @@ twitter_username: swanandkal
 github_username:  swanandkalugade
 linkedin_username: swanandkalugade
 
-
 # Build settings
 
 # Removed minima theme as we're using regular theme
@@ -42,7 +41,7 @@ plugins:
 # Defaults
 defaults:
   - scope:
-      path: "assets/img"
+      path: "assets/media"
     values:
       image: true
 

@@ -7,16 +7,21 @@ permalink: /projects/fluoroscopy
 image: "/assets/media/fluoroscopy/ctFluoroscopy.png"
 ---
 # Background
-CT(Computed Tomography) Fluoroscopy is a useful tool for physicians performing interventional procedures using CT machine. The anomaly in the patient is located with conventional CT imaging, then the physician uses CT fluoroscopy to track the position of a biopsy needle. This controller was a portable device which controlled the CT machine with functions for movement of the couch, gantry and imaging.  
+CT(Computed Tomography) Fluoroscopy is a useful tool for physicians performing interventional procedures using CT machine. The anomaly in the patient is located with conventional CT imaging, then the physician uses CT fluoroscopy to track the position of a biopsy needle. 
+
+For a physician, this controller augments CT machine functions like movement of the couch, gantry, and imaging while operating on a patient.
+
+<br>
 
 # Brief
-The existing product design was two decades old. Canon Medical, Japan wanted to redesign this to offer a new user experience to the user. The key areas were form, usability, ergonomics, and new technology offering flexibility to the product usage.  
+Cannon Medical's CT controller was two decades old design. They saw this project as an opportunity to offer a new user experience. The key design considerations were form, usability, ergonomics, and new technology offering flexibile usage.
 
-# Team
-I worked on this project along with my colleagues Mihir Sukhatme (Industrial designer) and Shantanu Rao (Project mentor). We collaborated with Canon Medical team in Japan and Capgemini's product engineering services group.  
+My ID colleagues and I worked together on this project with Canon Medical team in Japan and Capgemini's product engineering services group.
 
-# Design Decisions
-Ease of operation, sterilization, handling / maintenance and compact footprint were driving points for form consideration. We talked with radiologists, technologists in their work environment to identify pain points and product desirables.  
+<br>
+
+# Design Choices
+Form considerations included ease of operation, sterilization, maintenance, and compact footprint. We consulted radiologists, technologists in their work environment to identify pain points and product desirables.
 
 <div style="
     display: grid;
@@ -31,7 +36,7 @@ Ease of operation, sterilization, handling / maintenance and compact footprint w
 > Field visit to University hospital in Tokyo, Japan
 
 <br>
-We explored three broad design directions for mounting the controller which provided different affordances. Using cardboard mockups (non-functional prototypes) and role play, we discovered that stand mounted variant seemed cost effective and easy to manage.
+We explored three broad design directions for mounting the controller which provided different affordances. Using cardboard mockups (non-functional prototypes) and role play activities, we discovered that the stand mounted variant seemed cost effective, easy to install and manage.
 <img src="/assets/media/fluoroscopy/Sketches1.png" alt="sketches1"/>
 <img src="/assets/media/fluoroscopy/Sketches2.png" alt="sketches2"/>
 
@@ -39,29 +44,29 @@ We explored three broad design directions for mounting the controller which pro
 
 <img src="/assets/media/fluoroscopy/CT_Mockups.png" alt="mockups"/>
 
-> Idea exploration using traditional as well as digital media  
+> Idea exploration using traditional and digital media  
 
 <br>
 
 # Stand mounted controller
-Quick mock-ups with cardboard were used to simulate real environment usage. Testing sessions were conducted in a simulated operating environment to validate human factors. Plastic cover was attached for sterilization as used in a CT scan equipment.  
+We conducted testing sessions using cardboard / foam mock-ups in a simulated operating environment to validate human factors. The test included double gloved operation with plastic cover on controller for sterilization, as used in a CT scan environment.  
 
-Several control layout iterations later, two key layouts were selected for detailing.  
+Two key layouts were selected for detailing after going through several control layouts.
 
 <br>
 
 # Selected concepts
 <img src="/assets/media/fluoroscopy/CT_CAD.png" alt="sketches"/>
 
-> Top-Left shows couch / gantry manipulation with physical controls while Bottom-Left moved features to display  
+> Top-Left image shows couch / gantry manipulation with physical controls while Bottom-Left shifted features to the display
 
 <br>
 
 # SLA mock-up of preferred concept
 <img src="/assets/media/fluoroscopy/SLA-Mockup.png" alt="sketches"/>
 
-> 1:1 mock-up with simulated materials and colors with GUI on touch-display  
+> 1:1 mock-up with simulated materials and colors with GUI on touch-display 
 
 <br>
 
-Two SLA mock-ups were sent to TMSC Japan team for further studies. Capgemini product engineering team continued working on details of the selected concept.
+For further studies, two SLA mock-ups were sent to Canon Medical Japan team. Capgemini product engineering team later continued working on details of the selected concept.
