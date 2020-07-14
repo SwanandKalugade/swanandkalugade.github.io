@@ -10,13 +10,15 @@ image: "/assets/media/cell-expansion/quantumSnap.png"
 *[Quantum](https://www.terumobct.com/quantum "Open Terumo Product Page"){:target="_blank"}* is an automated platform designed to simplify the open, labor-intensive tasks associated with manual cell culture. Through this enhancements project the device will receive updated electro-mechanical components, new display computer, and GUI refresh.  
 
 # Process
-After few onboarding sessions, hands-on procedures it became clear that the system uses several pre-defined tasks that can be customized on device. For the design revision, we moved the majority of task / steps creation process to a separate cell processing application. 
+
 
 ![Whiteboard session](/assets/media/cell-expansion/whiteBoard.jpg)  
 
 We did iterations to provide task customization on device with new Qt framework. The device typically has multi-day process where run-screen serves as a single point of reference. We reworked Terumo's accessible color pallete especially for this.  
 
 # Design choices
+It became clear that the system uses several pre-defined tasks that can be customized on device. For the design revision, majority of task / steps creation process was ported to a separate cell processing application.  
+
 **Modular Components**  
 To solve string expansion, repond to user entries, and device states, we spent more time on modular components. Using Qt's Sketch Plugin, we were able to export ui.qml files for the developement team. This ensured there's little loss while translating design intent into development.  
 

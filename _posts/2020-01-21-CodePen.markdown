@@ -6,23 +6,27 @@ category: posts
 permalink: /posts/codepen
 ---
 
-I use CodePen as an open-source playground for front-end projects. The environment frees me up from setting routine tasks to preview the code result. I mostly use it to showcase ideas through code to someone on my team. Below are few examples from my codepen *[profile](https://codepen.io/skalugade){:target="_blank"}*.  
+I use CodePen as an open-source playground for front-end projects. The environment frees me up from setting routine tasks to preview the code result. I use it to showcase ideas through code to my colleagues.
+
+Below are few examples from my CodePen *[profile](https://codepen.io/skalugade){:target="_blank"}*.
 <br>
 
 # Color scale using chroma.js
-At Terumo, we wanted to expand our color pallette to include more hues. While working on this mini-project, I came across chroma.js library which had lots of hand little utilities that helped me demonstrate lightness and hue corrected pallette.  
+In 2019 at Terumo, we started efforts to bring all Terumo medical GUI under one design system. We wanted to expand existing color pallette to include more hues.
+
+While working on this mini-project, I came across chroma.js library which had lots of handy utilities that helped me demonstrate lightness and hue corrected pallette.  
 
 <p class="codepen" data-height="464" data-theme-id="light" data-default-tab="result" data-user="skalugade" data-slug-hash="XBLOvJ" style="height: 464px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Chroma basic scale">
   <span>See the Pen <a href="https://codepen.io/skalugade/pen/XBLOvJ">
   Chroma basic scale</a> by Swanand Kalugade (<a href="https://codepen.io/skalugade">@skalugade</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>   
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <br><br>
 
 # Protocol configuration layout test
-In a recent project, I wanted to showcase to team how cards can appear / scale based on the strings inside. This quick mockup was helpful to discuss localization issues, string wrapping, layout etc. with team which sometimes can take more time thorugh design tools.  
+In a recent project, I wanted to showcase to team how cards can appear / scale based on the strings inside. This quick mockup was helpful to discuss localization issues, string wrapping, layout with team. Sometimes this can take more time through design tools.  
 
 <p class="codepen" data-height="497" data-theme-id="light" data-default-tab="result" data-user="skalugade" data-slug-hash="mdyaOQo" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Configuration">
   <span>See the Pen <a href="https://codepen.io/skalugade/pen/mdyaOQo">

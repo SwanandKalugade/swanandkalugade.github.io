@@ -63,9 +63,9 @@ The cell therapy device executes different run tasks during a protocol execution
 <br>
 
 # Formative Testing
-I prepared a quick *[interactive mockup](https://www.justinmind.com/usernote/tests/38196272/45260779/47397928/index.html#/screens/da697580-0312-4404-b07c-5ee3df31b7d4){:target="_blank"}* using JustInMind tool for this study. Some of the views in mockup even respond to USB barcode scan events. Systems team worked on protocol steps to perform, arranged disposable tubing kits, and a script for simulated alarm lights during workflow execution.  
+A JustInMind tool based *[interactive mockup](https://www.justinmind.com/usernote/tests/38196272/45260779/47397928/index.html#/screens/da697580-0312-4404-b07c-5ee3df31b7d4){:target="_blank"}* was used to test user interface during this study. Some of the views in mockup were designed to respond to USB barcode scan events to simulate real world use. Tasks and use scenarios were conveyed to users, and success criteria for user performance was defined by human factors team. Users included nurses, technicians from Europe, China and USA.  
 
-We received some really great insights into what's important for technicians and nurses during device interactions.  
+We received some really great insights into what's important for technicians and nurses during these sessions.  
 
 <div style="
     display: grid;

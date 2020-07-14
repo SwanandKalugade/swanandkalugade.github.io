@@ -30,7 +30,7 @@ layout: default
             <div class="item">
               <!-- Added image to each post -->
                 <a href="{{ post.url | relative_url }}">
-                  <img src="{{ post.image }}" alt="post image">
+                  <img src="{{ post.image }}" alt="post image" style="border: 1px solid #A9ADB0;">
                 </a>
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 <span class="post-meta">{{ post.date | date: date_format }}</span>
