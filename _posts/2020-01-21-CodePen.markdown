@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  CodePen Samples
-date:   2020-01-21 12:55:01 -0600
+date:   2019-01-21 12:55:01 -0600
 category: posts
 permalink: /posts/codepen
 ---
@@ -9,7 +9,9 @@ permalink: /posts/codepen
 I use CodePen as an open-source playground for front-end projects. The environment frees me up from setting routine tasks to preview the code result. I use it to showcase ideas through code to my colleagues.
 
 Below are few examples from my CodePen *[profile](https://codepen.io/skalugade){:target="_blank"}*.
+
 <br>
+<div style="margin-bottom: -0.8em;"></div>
 
 # Color scale using chroma.js
 In 2019 at Terumo, we started efforts to bring all Terumo medical GUI under one design system. We wanted to expand existing color pallette to include more hues.

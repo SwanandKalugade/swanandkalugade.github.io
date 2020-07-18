@@ -23,7 +23,7 @@ It became clear that the system uses several pre-defined tasks that can be custo
 To solve string expansion, repond to user entries, and device states, we spent more time on modular components. Using Qt's Sketch Plugin, we were able to export ui.qml files for the developement team. This ensured there's little loss while translating design intent into development.  
 
 <video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
-  <source src="/assets/media/cell-expansion/QComponents.mp4" type="video/mp4">
+  <source src="/assets/media/cell-expansion/modularQuantum.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br>
@@ -31,7 +31,7 @@ To solve string expansion, repond to user entries, and device states, we spent m
 **Common Components for Cell Therapy Devices**  
 Protocol configuration layout was part of common component for similar projects strategy. We had to update few components for this device's resistive display.  
 <video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
-  <source src="/assets/media/cell-expansion/protocolConfig.mov" type="video/mp4">
+  <source src="/assets/media/cell-expansion/config.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <br>
