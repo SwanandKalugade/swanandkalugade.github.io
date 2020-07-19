@@ -40,7 +40,7 @@ Due to data density of task variables and values, we put emphasis on tabular lay
 <br>
 **Final Layout**
 <video width="100%" height="auto" controls muted style="border: 1px solid #ECEDED;">
-  <source src="/assets/media/cps/finalRun.mov" type="video/mp4">
+  <source src="/assets/media/cps/ReviewRun.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <span></span>

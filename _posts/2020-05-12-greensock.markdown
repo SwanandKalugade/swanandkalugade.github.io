@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  GreenSock Animation API
-date:   2020-05-12 19:55:01 -0600
+date:   2019-05-12 19:55:01 -0600
 category: posts
 permalink: /posts/greensock
 ---
@@ -11,6 +11,7 @@ Conveying interactions  in projects to remote development teams could sometimes 
 I studied GSAP's TweenMax with Sara Dresner's Advanced SVG course on *[FrontEndMasters](https://frontendmasters.com/courses/svg-essentials-animation/ "Open FrontEndMasters"){:target="_blank"}*. I used that knowledge in crafting following sequences.
 
 <br>
+<div style="margin-bottom: -0.8em;"></div>
 
 # Boot animation for cell therapy device
 Startup animation concept for a cell therapy medical device of Terumo, Inc. This is built using Greensock's TweenMax and TimelineMax modules.
