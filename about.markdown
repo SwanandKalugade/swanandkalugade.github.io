@@ -18,12 +18,8 @@ I am working as a design consultant for *[Terumo Inc.](https://www.terumobct.com
 
 Prior to this, I was responsible for design / development of enterprise apps for *[Element Fleet](https://www.elementfleet.com){:target="_blank"}* in MN, industrial design of CT Fluoroscopy controller for *[Cannon Medical](https://global.medical.canon/products/xray){:target="_blank"}* Japan and design of processing excellence center for *[RioTinto](https://www.riotinto.com/about){:target="_blank"}* Australia.
 
-I like to collaborate with cross-functional teams and experienced in design to development handoffs in an agile framework. I have demonstrated delivery of innovative and practical designs while working under broad directives with minimal hand-hold or oversight.
+I like to collaborate with cross-functional teams and experienced in design to development handoffs in an agile framework. I am proficient in product developement activities (research, design, prototype, test), and can also craft front-end interactions. I have demonstrated delivery of innovative and practical designs while working under broad directives with minimal hand-hold or oversight.
 
-I am proficient in product developement activities (research, design, prototype, test), and can also craft front-end interactions. Over weekends I get busy gardening, learning something, or enjoy my favorite video games.
-
-On this site, I have included selected projects from my past work.
-
-Here is my *[resumé](/assets/docs/Resume_SwanandKalugade_2020.pdf "Show Swanand's Resumé"){:target="_blank"}* for your reference.
+On this site, I have included selected projects from my past work. Here is my *[resumé](/assets/docs/Resume_SwanandKalugade_2020.pdf "Show Swanand's Resumé"){:target="_blank"}*.
 
 Thank you for seeing me on the interweb! 🙏🏼

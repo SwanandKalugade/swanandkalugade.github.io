@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cell Fill Finish Device
+title:  Automated Fill and Finish in Cell Therapy Development
 date:   2020-04-15 10:00:00 -0600
 category: projects
 permalink: /projects/ctt
