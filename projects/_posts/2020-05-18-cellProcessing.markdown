@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cell Processing Device
+title:  Combined Capabilities in Cell Processing at Terumo
 date:   2019-04-20 10:00:00 -0600
 category: projects
 permalink: /projects/cps

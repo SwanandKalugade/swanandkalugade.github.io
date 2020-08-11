@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Automated Cell Expansion Device
+title:  Improved Device Interface for Automated Cell Expansion
 date:   2019-02-10 10:00:00 -0600
 category: projects
 permalink: /projects/cell-expansion

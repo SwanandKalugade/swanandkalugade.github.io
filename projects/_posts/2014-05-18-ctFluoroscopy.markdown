@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CT Fluoroscopy Controller Design
+title:  Redesign of CT Fluoroscopy Controller
 date:   2014-05-18 10:00:00 -0600
 category: projects
 permalink: /projects/fluoroscopy
